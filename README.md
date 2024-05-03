@@ -1,7 +1,8 @@
 # hopfieldNetwork
-CS 302 Lab 08 Code
-##Team members
-Sanidhya Kumar (202151138)
-Samanway Maji (202151136)
-Riya (202151132)
-Shilpi Giri (202151145)
+**CS 302 Lab 08 Code**
+<br>
+## Team members
+1. Sanidhya Kumar (202151138)
+2. Samanway Maji (202151136)
+3. Riya (202151132)
+4. Shilpi Giri (202151145)
